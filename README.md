@@ -32,6 +32,13 @@ All the possible situations which will convert the `done` value to true are list
 - If the agent's fitness hasn't increased in a certain number of steps. 
 - If the agent reaches the end of the level. 
 
+## Useful Readings
+
+[NEAT-Python github project](https://github.com/CodeReclaimers/neat-python)
+[NEAT-Python documentation](https://neat-python.readthedocs.io/en/latest/)
+[NEAT Users Page](http://www.cs.ucf.edu/~kstanley/neat.html)
+[K. Stanley's Other Publications](http://www.cs.ucf.edu/~kstanley/#publications)
+
 ## To do
 
 - Adjust fitness conditions
