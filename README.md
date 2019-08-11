@@ -2,7 +2,7 @@
 
 ## Goal
 
-Implemente the NEAT reinforcement learning algorithm in Sonic The Hedgehog 3.
+Implement the NEAT reinforcement learning algorithm in Sonic The Hedgehog 3.
 
 ## High level flow
 
